@@ -1,0 +1,16 @@
+C = 5
+Number of support vectors is  88
+Test error is  0.136
+
+Best C is  0.1
+Number of support vectors is  162
+Test error is  0.14600000000000002
+
+Best C is  1
+Number of support vectors is  96
+Test error is  0.352
+
+100 samples of 250
+Best C is  2
+Number of support vectors is  41
+Test error is  0.10299999999999998
