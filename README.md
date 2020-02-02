@@ -1,2 +1,2 @@
 # Relevance Vector Machine implementation
-+ Support vector machine implementation
+ + Support vector machine implementation
