@@ -1,2 +1,2 @@
-# RVM_project
-# RVM_project
+# Relevance Vector Machine implementation
++ Support vector machine implementation
